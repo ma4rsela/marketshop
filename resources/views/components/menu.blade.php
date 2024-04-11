@@ -1,6 +1,6 @@
 <div class="navbar bg-yellow-300 ">
   <div class="flex-1">
-    <a class="btn btn-ghost text-black text-xl">MarketShop</a>
+    <a class="btn btn-ghost text-xl">MarketShop</a>
   </div>
   <div class="flex-none gap-2">
     <div class="form-control">
@@ -43,14 +43,15 @@
             <li><a>Casa e Móveis</a></li>
           </ul>
         </li>
-        <li><a>Item </a></li>
-        <li><a>Item </a></li>
-        <li><a>Item </a></li>
+        <li><a>Feminino </a></li>
+     <li><a>Masculino </a></li>
+    <li><a>Pets </a></li>
+    <li><a>Kids </a></li>
       </ul>
     </div>
     
   </div>
-  <div class="navbar-center text-black hidden lg:flex">
+  <div class="navbar-center text-black hidden lg:flex z-40">
     <ul class="menu menu-horizontal px-1">
      
       <li>
@@ -64,12 +65,15 @@
           </ul>
         </details>
       </li>
-      <li><a>Item </a></li>
-     <li><a>Item </a></li>
-    <li><a>Item </a></li>
+      <li><a>Feminino </a></li>
+     <li><a>Masculino </a></li>
+    <li><a>Pets </a></li>
+    <li><a>Kids </a></li>
     </ul>
   </div>
   <div class="navbar-end">
+
+  
    
   </div>
 </div>

@@ -9,7 +9,7 @@
 
     <title>{{ $title ?? 'MarketShop' }}</title>
 </head>
-<body>
+<body data-theme = "light" class = "bg-gray-100 min-h-screen">
     {{$slot}}
 </body>
 </html>
